@@ -1,0 +1,5 @@
+records.json
+*-백업.json
+.env
+.env.*
+node_modules/
